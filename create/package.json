@@ -1,0 +1,20 @@
+{
+  "name": "vuepress",
+  "version": "0.0.1",
+  "description": "start vuepress",
+  "main": "index.js",
+  "authors": {
+    "name": "zhangtiantian",
+    "email": "zhangtiantian0701@163.com"
+  },
+  "repository": "/vuepress",
+  "scripts": {
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.0",
+    "@vuepress/theme-blog": "^1.0.0"
+  }
+}
